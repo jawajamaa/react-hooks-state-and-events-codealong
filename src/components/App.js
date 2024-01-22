@@ -2,6 +2,11 @@ import React from "react";
 import Toggle from "./Toggle";
 
 function App() {
+
+  // function updateToggle() {
+
+  // }
+
   return (
     <div>
       <h3>Toggle</h3>
